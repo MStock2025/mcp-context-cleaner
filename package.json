@@ -1,0 +1,24 @@
+{
+  "name": "mcp-context-cleaner",
+  "version": "1.0.0",
+  "description": "Zero-dependency lightweight Node.js utility to clean, minify, and optimize MCP payloads for LLM context windows.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "context-cleaner",
+    "llm",
+    "minify",
+    "token-saver",
+    "optimize"
+  ],
+  "author": "D-B",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
