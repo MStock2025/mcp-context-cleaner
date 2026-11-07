@@ -14,9 +14,19 @@
     "llm",
     "minify",
     "token-saver",
-    "optimize"
+    "optimize",
+    "claude",
+    "cursor"
   ],
-  "author": "D-B",
+  "author": "MreSystems <support@mresystems.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MStock2025/mcp-context-cleaner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MStock2025/mcp-context-cleaner/issues"
+  },
+  "homepage": "https://github.com/MStock2025/mcp-context-cleaner#readme",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
