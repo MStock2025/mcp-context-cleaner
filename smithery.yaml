@@ -1,0 +1,9 @@
+# Smithery configuration for mcp-context-cleaner
+# https://smithery.ai
+name: mcp-context-cleaner
+description: Zero-overhead payload optimizer and token reducer for Model Context Protocol (MCP) servers and LLM context windows.
+startCommand:
+  type: stdio
+  config:
+    command: "node"
+    args: ["index.js"]
